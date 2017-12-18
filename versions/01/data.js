@@ -1,5 +1,5 @@
 var data = {
-  "service": "5. Land registry",
+  "version": "GOV exemplar no 5 - Alpha pass. January 2016",
   "last-updated": "6 January 2015",
   "userjourneys": [            
     {

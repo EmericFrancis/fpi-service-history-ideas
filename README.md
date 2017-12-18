@@ -1,11 +1,11 @@
-Exemplar screens
-================
+Find property information service on GOV.UK
+===========================================
 
-Browse screenshots of GOV.UK exemplar services, organised by user scenario.
+Browse screenshots of the Find property information service on GOV.UK, organised by time and user scenario.
 
 [http://andyporter.github.io/service-screens/](http://andyporter.github.io/service-screens/)
 
-You can view different sets of screenshots for each exemplar, zoom in and out of them or step through them in order.
+You can view different sets of screenshots for each moment in time, zoom in and out of them or step through them in order.
 
 
 ## Running this app locally
@@ -15,7 +15,7 @@ The app is very simple and doesn't require anything to be installed or run in a 
 
 ## How to contribute
 
-If you work on one of the exemplars and want to add or update screenshots of it please go ahead, you'd be doing us all a big favour. Pull requests are the best way. You'll need to know how to use Git and how to edit very simple data files.
+If you work on this service and want to add or update screenshots of it please go ahead, you'd be doing us all a big favour. Pull requests are the best way. You'll need to know how to use Git and how to edit very simple data files.
 
 ### Capturing screenshots
 
@@ -38,4 +38,18 @@ Edit the data.js file in your numbered exemplar folder. It contains a few exampl
 ### 3. Update the index file
 
 Once you're done, don't forget to add a link to your exemplar from the 'index.html' file in the root of this repository (not the one in your numbered exemplar folder).
+
+
+## Attribution
+
+This tool is based on (and code cloned from) GDS Exemplar screens repo. 
+
+### Code History
+
+* https://github.com/AndyPorter/exemplar-screens (code cloned from)
+* https://github.com/claragt/exemplar-screens
+* https://github.com/alphagov/exemplar-screens
+
+
+
 
