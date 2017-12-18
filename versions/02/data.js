@@ -51,7 +51,7 @@ var data = {
         "note": [
           "Create an account or sign-in",
           "Create account more likely - 70% to 30%",
-          "more account function show below"
+          "more account function shown below"
           ]
       },
       {
@@ -98,70 +98,161 @@ var data = {
     {
       "title": "Variations of search results",
       "path": [{
-        "caption": "Alpha final version",
-        "imgref": "images/register-views/A.Official-register.of-title-DT122047.png"
-      },{
-        "caption": "Earlier version",
-        "imgref": "images/register-views/B.Official-register-of-title-DT122047.png"
-      },{
-        "caption": "With collapsible bits",
-        "imgref": "images/register-views/C.Official-register-of-title-DT122047.png"
+        "caption": "Pagination",
+        "imgref": "images/results/01-pagination.png",
+        "note": [
+          "20 results per page (max 5 pages)"
+          ]
+      },
+      {
+        "caption": "Not much available here",
+        "imgref": "images/results/02-not-much-available.png"
+      },
+      {
+        "caption": "Why nothing available?",
+        "imgref": "images/results/03-why-no-information-available.png",
+        "note": [
+          "Most likely reason is we cannot yet link to all the property records per address"
+          ]
+      },
+      {
+        "caption": "Sorting can be hard",
+        "imgref": "images/results/04-sorting.png",
+        "note": [
+          "Sorting into a logical order is hard.  Because - AlphaNumeric numbers, and building names and business names"
+          ]
       }
       ]
     },
     {
       "title": "Variations of property pages",
       "path": [{
-        "caption": "Alpha final version",
-        "imgref": "images/register-views/A.Official-register.of-title-DT122047.png"
-      },{
-        "caption": "Earlier version",
-        "imgref": "images/register-views/B.Official-register-of-title-DT122047.png"
-      },{
-        "caption": "With collapsible bits",
-        "imgref": "images/register-views/C.Official-register-of-title-DT122047.png"
+        "caption": "Freehold / Leasehold(s)",
+        "imgref": "images/property-pages/01-tenure-explanation.png",
+        "note": [
+          "Help picking the title record"
+          ]
+      },
+      {
+        "caption": "One title for this address",
+        "imgref": "images/property-pages/02-one-property-title.png",
+        "note": [
+          "Always show this page if there is at least one title that we know of"
+          ]
+      },
+      {
+        "caption": "Title not available",
+        "imgref": "images/property-pages/03-title-not-available.png",
+        "note": [
+          "We know there is a title but this service cannot get the information for it (the search and the titles data pots are different)"
+          ]
       }
       ]
     },
     {
       "title": "Create account",
       "path": [{
-        "caption": "Alpha final version",
-        "imgref": "images/register-views/A.Official-register.of-title-DT122047.png"
-      },{
-        "caption": "Earlier version",
-        "imgref": "images/register-views/B.Official-register-of-title-DT122047.png"
-      },{
-        "caption": "With collapsible bits",
-        "imgref": "images/register-views/C.Official-register-of-title-DT122047.png"
+        "caption": "Viewing a property title",
+        "imgref": "images/create-account/00-pre-account-created-about-title.png",
+        "note": [
+          "now create an account - the most frequent option, especially for citizens (occasional users)"
+          ]
+      },
+      {
+        "caption": "Create account",
+        "imgref": "images/create-account/01-create-account.png"
+      },
+      {
+        "caption": "Account created",
+        "imgref": "images/create-account/02-account-created.png"
+      },
+      {
+        "caption": "Sign-in",
+        "imgref": "images/create-account/03-account-created-sign-in.png",
+        "note": [
+          "Not automatically signed in"
+          ]
+      },
+      {
+        "caption": "property title, now signed in",
+        "imgref": "images/create-account/04-account-created-signed-in-about-title.png"
       }
       ]
     },
     {
       "title": "Password reset",
       "path": [{
-        "caption": "Alpha final version",
-        "imgref": "images/register-views/A.Official-register.of-title-DT122047.png"
-      },{
-        "caption": "Earlier version",
-        "imgref": "images/register-views/B.Official-register-of-title-DT122047.png"
-      },{
-        "caption": "With collapsible bits",
-        "imgref": "images/register-views/C.Official-register-of-title-DT122047.png"
+        "caption": "Viewing a property title",
+        "imgref": "images/password-reset/00-pre-account-created-about-title.png",
+        "note": [
+          "password reset via sign in (also a route via create account)"
+          ]
+      },
+      {
+        "caption": "Sign in",
+        "imgref": "images/password-reset/01-sign-in.png"
+      },
+      {
+        "caption": "Reset password",
+        "imgref": "images/password-reset/02-reset-password.png"
+      },
+      {
+        "caption": "Reset email sent",
+        "imgref": "images/password-reset/03-email-sent.png"
+      },
+      {
+        "caption": "Email",
+        "imgref": "images/password-reset/04-password-reset-email.png"
+      },
+      {
+        "caption": "Create new password",
+        "imgref": "images/password-reset/05-create-new-password.png"
+      },
+      {
+        "caption": "Password changed",
+        "imgref": "images/password-reset/06-password-changed.png"
+      },
+      {
+        "caption": "Sign-in",
+        "imgref": "images/password-reset/07-sign-in.png",
+      },
+      {
+        "caption": "Search again",
+        "imgref": "images/password-reset/08-back-to-search.png",
+        "note": [
+          "Have to search again - doesn't remember where you were"
+          ]
       }
       ]
     },
     {
-      "title": "other pages",
+      "title": "Other pages",
       "path": [{
-        "caption": "Alpha final version",
-        "imgref": "images/register-views/A.Official-register.of-title-DT122047.png"
-      },{
-        "caption": "Earlier version",
-        "imgref": "images/register-views/B.Official-register-of-title-DT122047.png"
-      },{
-        "caption": "With collapsible bits",
-        "imgref": "images/register-views/C.Official-register-of-title-DT122047.png"
+        "caption": "Terms of use",
+        "imgref": "images/other-pages/00-terms-of-use.png"
+      },
+      {
+        "caption": "Privacy policy",
+        "imgref": "images/other-pages/00-personal-information-charter.png"
+      },
+      {
+        "caption": "Cookies",
+        "imgref": "images/other-pages/00-cookies.png"
+      },
+      {
+        "caption": "Ordnance Survey terms",
+        "imgref": "images/other-pages/00-OS-terms.png",
+        "note": [
+          "Hosted by Ordnance Survey"
+          ]
+      },
+      {
+        "caption": "Feedback",
+        "imgref": "images/other-pages/00-feedback.png"
+      },
+      {
+        "caption": "Contact us",
+        "imgref": "images/other-pages/00-contact-HMLandRegistry.png"
       }
       ]
     }
