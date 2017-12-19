@@ -111,18 +111,18 @@ var data = {
       "title": "Username reminder",
       "path": [{
         "caption": "Request reminder",
-        "imgref": "images/password-reset/01-b-username-reminder.png",
+        "imgref": "images/username-reminder/01-b-username-reminder.png",
         "note": [
           "Password reset is in Find a Property"
           ]
       },
       {
         "caption": "reminder sent",
-        "imgref": "images/password-reset/01-b-username-reminder-2.png"
+        "imgref": "images/username-reminder/01-b-username-reminder-2.png"
       },
       {
         "caption": "email received",
-        "imgref": "images/password-reset/01-b-username-reminder-3.png"
+        "imgref": "images/username-reminder/01-b-username-reminder-3.png"
       }
       ]
     },
