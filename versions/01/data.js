@@ -1,5 +1,5 @@
 var data = {
-  "version": "GOV exemplar no 5 - Alpha pass. January 2016",
+  "version": "GOV exemplar no 5 - Alpha pass. January 2015",
   "last-updated": "6 January 2015",
   "userjourneys": [            
     {
