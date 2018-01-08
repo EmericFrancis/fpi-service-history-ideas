@@ -1,6 +1,6 @@
 var data = {
-  "version": "Beta pass. December 2017",
-  "last-updated": "18 December 2017",
+  "version": "Beta pass. January 2017",
+  "last-updated": "08 January 2017",
   "userjourneys": [            
     {
       "title": "Get property summary information",
