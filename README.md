@@ -15,7 +15,7 @@ The app is very simple and doesn't require anything to be installed or run in a 
 
 ## How to contribute
 
-If you work on this service and want to add or update screenshots of it please go ahead, you'd be doing us all a big favour. Pull requests are the best way. You'll need to know how to use Git and how to edit very simple data files.
+If you work on this service and want to add or update screenshots of it please go ahead. Pull requests are the best way. You'll need to know how to use Git and how to edit very simple data files.
 
 ### Capturing screenshots
 
@@ -29,15 +29,15 @@ You can also use services like [BrowserStack](http://www.browserstack.com/) or [
 
 ### 1. Add your images
 
-Each exemplar has it's own numbered folder in '/exemplar'. Drop all your images into the 'images' subfolder (1024px wide is best).
+Each 'point in time' - a version of the service, has it's own numbered folder in '/version'. Drop all your images into the 'images' subfolder (1024px wide is best).
 
 ### 2. Update the data file
 
-Edit the data.js file in your numbered exemplar folder. It contains a few examples so you can see how the data should be structured.
+Edit the data.js file in your numbered version folder.
 
 ### 3. Update the index file
 
-Once you're done, don't forget to add a link to your exemplar from the 'index.html' file in the root of this repository (not the one in your numbered exemplar folder).
+Once you're done, don't forget to add a link to your version from the 'index.html' file in the root of this repository (not the one in your numbered exemplar folder).
 
 
 ## Attribution
