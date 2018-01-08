@@ -57,6 +57,15 @@
     </div>
     {{/userjourneys}}
 
+    {{#if change-history}}
+      <h2>Changes since previous set of screens</h2>
+      <ul style="margin-bottom: 2em;">
+      {{#change-history}}
+        <li>{{.}}</li>
+      {{/change-history}}
+      </ul>
+    {{/if}}
+
     <p class="meta">Last updated on {{last-updated}}.
       These screenshots are subject to change and do not necessarily reflect any current or
       future iteration of this service.

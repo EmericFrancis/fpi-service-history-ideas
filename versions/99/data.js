@@ -1,6 +1,9 @@
 var data = {
-  "version": "Beta pass. January 2017",
+  "version": "Current service (beta). January 2017",
   "last-updated": "08 January 2017",
+  "change-history" : [
+    "title no removed from confirm page"
+  ],
   "userjourneys": [            
     {
       "title": "Get property summary information",
