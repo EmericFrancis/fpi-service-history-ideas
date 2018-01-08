@@ -1,6 +1,6 @@
 var data = {
-  "version": "Current service (beta). January 2017",
-  "last-updated": "08 January 2017",
+  "version": "Current service (beta). January 2018",
+  "last-updated": "08 January 2018",
   "change-history" : [
     "title no removed from confirm page"
   ],
