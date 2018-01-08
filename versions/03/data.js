@@ -56,7 +56,7 @@ var data = {
       },
       {
         "caption": "Confirm property title wanted",
-        "imgref": "images/get-property-information/07-about-property-title.png",
+        "imgref": "images/get-property-information/07-confirm-purchase.png",
         "note": [
           "What you're getting when you pay",
           "Title number given here for free"
@@ -253,6 +253,10 @@ var data = {
       {
         "caption": "Contact us",
         "imgref": "images/other-pages/00-contact-HMLandRegistry.png"
+      },
+      {
+        "caption": "Signed in elsewhere",
+        "imgref": "images/other-pages/00-signed-in-already.png"
       }
       ]
     }
