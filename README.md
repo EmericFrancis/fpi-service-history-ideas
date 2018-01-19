@@ -3,7 +3,7 @@ Find property information service on GOV.UK
 
 Browse screenshots of the Find property information service on GOV.UK, organised by time and user scenario.
 
-[http://andyporter.github.io/fpi-service-screens/](http://andyporter.github.io/fpi-service-screens/)
+[http://landregistry.github.io/fpi-service-screens/](http://landregistry.github.io/fpi-service-screens/)
 
 You can view different sets of screenshots for each moment in time, zoom in and out of them or step through them in order.
 
@@ -30,6 +30,8 @@ You can also use services like [BrowserStack](http://www.browserstack.com/) or [
 ### 1. Add your images
 
 Each 'point in time' - a version of the service, has it's own numbered folder in '/version'. Drop all your images into the 'images' subfolder (1024px wide is best).
+
+v99 contains the current version of the service, to be added to as changes occur.  At a sensible point in time, make a snapshot of 99 with a lower number.
 
 ### 2. Update the data file
 
