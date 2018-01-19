@@ -3,7 +3,7 @@ Find property information service on GOV.UK
 
 Browse screenshots of the Find property information service on GOV.UK, organised by time and user scenario.
 
-[http://andyporter.github.io/service-screens/](http://andyporter.github.io/service-screens/)
+[http://andyporter.github.io/fpi-service-screens/](http://andyporter.github.io/fpi-service-screens/)
 
 You can view different sets of screenshots for each moment in time, zoom in and out of them or step through them in order.
 
