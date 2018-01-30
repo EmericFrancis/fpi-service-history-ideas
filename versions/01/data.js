@@ -5,7 +5,7 @@ var data = {
 			"title": "Bike reported to police",
 			"path": [{
 					"caption": "Start",
-					"imgref": "images/get-property-information/01-start-on-govuk.png",
+					"imgref": "images/bike-reported/01-start.png",
 					"note": [
 						"New service for basic searches",
 						"Not Green button (that's Find A Property - older service)"
@@ -13,17 +13,37 @@ var data = {
 				},
 				{
 					"caption": "Reported",
-					"imgref": "images/get-property-information/02-search.png",
+					"imgref": "images/bike-reported/02-reported.png",
 					"note": "Postcode only."
 				},
 				{
 					"caption": "Crime Refrence",
-					"imgref": "images/get-property-information/03-results.png",
+					"imgref": "images/bike-reported/03-crime-reference.png",
 					"note": [
 						"All the addresses in a postcode.",
 						"Up to 100 addresses",
 						"Places with postal addresses, not 'land at'",
-						"more examples of results and property page below"
+						"more examples of bike-reported-at-location and property page below"
+					]
+				},
+				{
+					"caption": "personal-detials",
+					"imgref": "images/bike-reported/04-personal-detials.png",
+					"note": [
+						"All the addresses in a postcode.",
+						"Up to 100 addresses",
+						"Places with postal addresses, not 'land at'",
+						"more examples of bike-reported-at-location and property page below"
+					]
+				},
+				{
+					"caption": "confirmation",
+					"imgref": "images/bike-reported/05-confirmation.png",
+					"note": [
+						"All the addresses in a postcode.",
+						"Up to 100 addresses",
+						"Places with postal addresses, not 'land at'",
+						"more examples of bike-reported-at-location and property page below"
 					]
 				}
 			]
@@ -32,25 +52,25 @@ var data = {
 			"title": "Bike not reported to the police at location",
 			"path": [{
 					"caption": "Start",
-					"imgref": "images/results/01-pagination.png",
+					"imgref": "images/bike-reported-at-location/01-start.png",
 					"note": [
 						"20 results per page (max 5 pages)"
 					]
 				},
 				{
 					"caption": "Current Location",
-					"imgref": "images/results/02-not-much-available.png"
+					"imgref": "images/bike-reported-at-location/02-reported.png"
 				},
 				{
-					"caption": "Geo Search Results",
-					"imgref": "images/results/03-why-no-information-available.png",
+					"caption": "Location",
+					"imgref": "images/bike-reported-at-location/03-location.png",
 					"note": [
 						"Most likely reason is we cannot yet link to all the property records per address"
 					]
 				},
 				{
-					"caption": "Contact Detials",
-					"imgref": "images/results/04-sorting.png",
+					"caption": "Geo-Location",
+					"imgref": "images/bike-reported-at-location/04-geo-location.png",
 					"note": [
 						"Sorting into a logical order is hard.  Because - AlphaNumeric numbers, and building names and business names"
 					]
