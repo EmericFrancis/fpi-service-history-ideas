@@ -4,7 +4,7 @@ var data = {
 	"userjourneys": [{
 			"title": "Bike reported to police",
 			"path": [{
-					"caption": "Start",
+					"caption": "Start Page",
 					"imgref": "images/bike-reported/01-start.png",
 					"note": [
 						"New service for basic searches",
@@ -17,7 +17,7 @@ var data = {
 					"note": "Postcode only."
 				},
 				{
-					"caption": "Crime Refrence",
+					"caption": "Crime Reference",
 					"imgref": "images/bike-reported/03-crime-reference.png",
 					"note": [
 						"All the addresses in a postcode.",
@@ -27,7 +27,7 @@ var data = {
 					]
 				},
 				{
-					"caption": "personal-detials",
+					"caption": "Personal Details",
 					"imgref": "images/bike-reported/04-personal-detials.png",
 					"note": [
 						"All the addresses in a postcode.",
@@ -37,7 +37,7 @@ var data = {
 					]
 				},
 				{
-					"caption": "confirmation",
+					"caption": "Confirmation",
 					"imgref": "images/bike-reported/05-confirmation.png",
 					"note": [
 						"All the addresses in a postcode.",
@@ -51,14 +51,14 @@ var data = {
 		{
 			"title": "Bike not reported to the police at location",
 			"path": [{
-					"caption": "Start",
+					"caption": "Start Page",
 					"imgref": "images/bike-reported-at-location/01-start.png",
 					"note": [
 						"20 results per page (max 5 pages)"
 					]
 				},
 				{
-					"caption": "Current Location",
+					"caption": "Reported",
 					"imgref": "images/bike-reported-at-location/02-reported.png"
 				},
 				{
