@@ -1,6 +1,6 @@
 var data = {
-	"version": "Beta pass. December 2017",
-	"last-updated": "18 December 2017",
+	"version": "End of Alpha. October 2017",
+	"last-updated": "30 January 2018",
 	"userjourneys": [{
 			"title": "Bike reported to police",
 			"path": [{
