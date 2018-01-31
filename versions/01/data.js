@@ -6,44 +6,33 @@ var data = {
 			"path": [{
 					"caption": "Start Page",
 					"imgref": "images/bike-reported/01-start.png",
-					"note": [
-						"New service for basic searches",
-						"Not Green button (that's Find A Property - older service)"
-					]
+					"note": []
 				},
 				{
 					"caption": "Reported",
 					"imgref": "images/bike-reported/02-reported.png",
-					"note": "Postcode only."
+					"note": "If bike is already reported in future iterations they will be able to start a insurance claim."
 				},
 				{
 					"caption": "Crime Reference",
 					"imgref": "images/bike-reported/03-crime-reference.png",
 					"note": [
-						"All the addresses in a postcode.",
-						"Up to 100 addresses",
-						"Places with postal addresses, not 'land at'",
-						"more examples of bike-reported-at-location and property page below"
+						"Crime reference number used to gather detials already provided to the police"
 					]
 				},
 				{
 					"caption": "Personal Details",
 					"imgref": "images/bike-reported/04-personal-detials.png",
 					"note": [
-						"All the addresses in a postcode.",
-						"Up to 100 addresses",
-						"Places with postal addresses, not 'land at'",
-						"more examples of bike-reported-at-location and property page below"
+						"User checks detials attached to the crime reference number are correct",
+						"Compulosry legal message at the bottom"
 					]
 				},
 				{
 					"caption": "Confirmation",
 					"imgref": "images/bike-reported/05-confirmation.png",
 					"note": [
-						"All the addresses in a postcode.",
-						"Up to 100 addresses",
-						"Places with postal addresses, not 'land at'",
-						"more examples of bike-reported-at-location and property page below"
+						"Users felt more reassured if they were going to recieve a email"
 					]
 				}
 			]
@@ -53,27 +42,25 @@ var data = {
 			"path": [{
 					"caption": "Start Page",
 					"imgref": "images/bike-reported-at-location/01-start.png",
-					"note": [
-						"20 results per page (max 5 pages)"
-					]
+					"note": []
 				},
 				{
 					"caption": "Reported",
-					"imgref": "images/bike-reported-at-location/02-reported.png"
+					"imgref": "images/bike-reported-at-location/02-reported.png",
+					"note": [
+						"the user can report the crime online and get a crime reference number"
+					]
 				},
 				{
 					"caption": "Location",
 					"imgref": "images/bike-reported-at-location/03-location.png",
 					"note": [
-						"Most likely reason is we cannot yet link to all the property records per address"
+						"**user will recieve pop-up in top left asking for access to thier location**"
 					]
 				},
 				{
 					"caption": "Geo-Location",
-					"imgref": "images/bike-reported-at-location/04-geo-location.png",
-					"note": [
-						"Sorting into a logical order is hard.  Because - AlphaNumeric numbers, and building names and business names"
-					]
+					"imgref": "images/bike-reported-at-location/04-geo-location.png"
 				}
 			]
 		}
