@@ -5,7 +5,7 @@ var data = {
 		"title no removed from confirm page"
 	],
 	"userjourneys": [{
-			"title": "Get property summary information",
+			"title": "User Journey (Scenario) 1",
 			"path": [{
 					"caption": "Start",
 					"imgref": "images/get-property-information/01-start-on-govuk.png",
@@ -96,7 +96,7 @@ var data = {
 			]
 		},
 		{
-			"title": "Get property summary information",
+			"title": "User Journey (Scenario) 2",
 			"path": [{
 					"caption": "Start",
 					"imgref": "images/get-property-information/01-start-on-govuk.png",
