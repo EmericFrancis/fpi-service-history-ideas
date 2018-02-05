@@ -25,12 +25,19 @@
   <title>GOV.UK Service History</title>
 
   <script id="template" type="text/template">
-    <h1>{{version}}</h1>
+
+    <div class="header">
+      <h1 class="h1">{{version}}</h1>
+    </div>
 
     <p class="notes">**Here you can list the diffrent journeys (Scenarios) your user could experience through the service at this version**
     </p>
 
-    <p class="exemplar-intro">Scenarios: <span class="all-toggle">(<span class="js-open-all">open all</span><span class="js-close-all">close all</span>)</span></p>
+    <p class="exemplar-intro">Scenarios:</p>
+
+    <div padding: 10px;>
+      <span class="all-toggle">(<span class="js-open-all">open all</span><span class="js-close-all">close all</span>)</span>
+    </div>
 
     {{#userjourneys}}
     <div class="image-set">
