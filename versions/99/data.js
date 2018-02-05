@@ -2,7 +2,8 @@ var data = {
 	"version": "Current service (beta). January 2018",
 	"last-updated": "08 January 2018",
 	"change-history": [
-		"title no removed from confirm page"
+		"list changes in version here",
+		"e.g. Title wording changed"
 	],
 	"userjourneys": [{
 			"title": "User Journey (Scenario) 1",
