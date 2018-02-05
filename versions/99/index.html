@@ -26,14 +26,15 @@
 
   <script id="template" type="text/template">
 
+    <div class="header">
+      <h1 class="h1">{{version}}</h1>
+    </div>
+
     <p class="notes">**Here you can list the diffrent journeys (Scenarios) your user could experience through the service.
       You should screenshot each page of your service in the journey and add any relvant comments about the page.**
     </p>
 
-    <div class="header">
-      <h1 class="h1">{{version}}</h1>
-    </div>
-    <p class="exemplar-intro">Scenarios: <span class="all-toggle">(<span class="js-open-all">open all</span><span class="js-close-all">close all</span>)</span></p>
+    <p class="exemplar-intro">Scenarios: <span class="all-toggle">(<span class="js-open-all">Expand all</span><span class="js-close-all">Close all</span>)</span></p>
 
     {{#userjourneys}}
     <div class="image-set">
