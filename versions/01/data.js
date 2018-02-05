@@ -2,7 +2,7 @@ var data = {
 	"version": "End of Alpha. October 2017",
 	"last-updated": "30 January 2018",
 	"userjourneys": [{
-			"title": "Bike reported to police",
+			"title": "User Journey (Scenario) 1",
 			"path": [{
 					"caption": "Start Page",
 					"imgref": "images/bike-reported/01-start.png",
@@ -38,7 +38,7 @@ var data = {
 			]
 		},
 		{
-			"title": "Bike not reported to the police at location",
+			"title": "User Journey (Scenario) 2",
 			"path": [{
 					"caption": "Start Page",
 					"imgref": "images/bike-reported-at-location/01-start.png",
