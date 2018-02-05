@@ -376,3 +376,14 @@ html.noscroll {
 .prev.button{
 	display: none;
 }
+
+.header {
+    background: #000000;
+    height: 4em;
+		padding: 1em
+}
+.h1 {
+    color: white;
+    font-family: Arial;
+    text-align: left;
+}
